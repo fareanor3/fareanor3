@@ -1,13 +1,13 @@
 ![banner](https://raw.githubusercontent.com/fareanor3/profile/main/bannergit.png)
 
-### Hi there 👋, I'm Fareanor
-## Design, Development, Security, AI, Graduate Student
+## Hi there 👋, I'm Fareanor
+### Design, Development, Security, AI, Graduate Student
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fareanor3&show_icons=true&count_private=true)  
 
 
-Skills: Python / Arduino / Processing
+### Skills: Python / Arduino / Processing
 
 - 🌱 I’m currently learning Engineering 
 
