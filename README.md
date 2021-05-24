@@ -1,7 +1,7 @@
 ![banner](https://raw.githubusercontent.com/fareanor3/profile/main/bannergit.png)
 
 ## Hi there 👋, I'm Fareanor
-### Design, Development, Security, AI, Graduate Student
+### Development, Security, AI, Design, and more...
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fareanor3&show_icons=true&count_private=true)  
