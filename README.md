@@ -9,7 +9,7 @@
 
 ### Skills: Python / Arduino / Processing
 
-- 🌱 I’m currently learning Engineering and [on Root Me](https://www.root-me.org/?page=news&lang=fr)
+- 🌱 I’m currently learning Engineering and on [Root Me](https://www.root-me.org/fareanor-310142?lang=fr#164a71fb6178ff0b37418592b345d520)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/fareanor3)  
