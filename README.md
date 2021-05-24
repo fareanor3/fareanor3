@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/fareanor3/profile/main/bannergit.png)
+
 ### Hi there 👋, my name is Fareanor
 #### Design, Development, Security, AI, Graduate Student
 
