@@ -9,7 +9,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fareanor3&show_icons=true&count_private=true)  
 
 
-### Skills: Python / Arduino / Processing / HTML / CSS
+### Skills: Python / Arduino / Processing / HTML5/ CSS
 
 - 🌱 I’m currently learning Engineering and on [Root Me](https://www.root-me.org/fareanor-310142?lang=fr#164a71fb6178ff0b37418592b345d520)
 
