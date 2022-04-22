@@ -2,8 +2,8 @@
 
 ## Hi there 👋, I'm Fareanor
 
-=========================
-<a href="https://www.github.com/fareanor3" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/fareanor3?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+<a href="https://www.github.com/fareanor3" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/fareanor3?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 ### Development, Security, AI, UI UX Design, and more...
 
@@ -21,8 +21,6 @@
 
 - I’m currently learning Engineering and on [Root Me](https://www.root-me.org/fareanor-310142?lang=fr#164a71fb6178ff0b37418592b345d520)
 
-![GitHub metrics](https://metrics.lecoq.io/fareanor3)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fareanor3)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fareanor3)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fareanor3)]
+![GitHub metrics](https://metrics.lecoq.io/fareanor3)
