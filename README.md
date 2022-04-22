@@ -3,11 +3,11 @@
 ## Hi there 👋, I'm Fareanor
 
 <a href="https://www.github.com/fareanor3" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/fareanor3?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/fareanor3?logo=github&style=for-the-badge&color=0891b2&labelColor=fafafa" /></a>
 
 ### Development, Security, AI, UI UX Design, and more...
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fareanor3&show_icons=true&count_private=true)  
+<a href="http://www.github.com/fareanor3"><img src="https://github-readme-stats.vercel.app/api?username=fareanor3&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=171515&hide_border=true&show_icons=true" alt="fareanor3's GitHub stats" /></a>
 
 ### Skills 🌱
 
